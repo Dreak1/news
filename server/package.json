@@ -1,6 +1,11 @@
 {
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
     "http-assert": "^1.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.9",
     "multer": "^1.4.2",
     "vue2-editor": "^2.10.2",
     "webp-converter": "^2.3.1"
